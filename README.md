@@ -91,3 +91,13 @@ function autoClicker() {
 autoClicker();
 
 ```
+
+---
+
+### How to work?
+
+
+
+https://github.com/omidRR/notcoin_AutoClicker/assets/64539596/68450501-b111-4bdf-836b-bd0ab821a4a3
+
+
