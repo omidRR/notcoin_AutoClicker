@@ -1,6 +1,6 @@
 # notcoin_AutoClicker
 
-Very simple, no need for web telegram
+Very simple, no need telegram web
 
   1. Need Enable webview inspecting option (in the `Telegram settings => Advanced => Experimental settings => Enable webview inspecting`)
   2. Press **F12** then in the console tab
