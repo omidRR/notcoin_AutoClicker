@@ -32,7 +32,7 @@ function changeURL() {
 changeURL();
 ```
 
-### Code to run autoclicker (+ click on rocket)
+### Run Autoclicker (+ click on rocket)
 
 ```
 function autoClicker() {
