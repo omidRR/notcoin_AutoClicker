@@ -2,8 +2,9 @@
 
 Very simple, no need for web telegram
 
-  1. Press **F12** then in the console tab
-  2. Type the text below
+  1. Need Enable webview inspecting option (in the `Telegram settings => Advanced => Experimental settings => Enable webview inspecting`)
+  2. Press **F12** then in the console tab
+  3. Type the text below
 
 ## To bypass Telegram desktop mode "Desktop is boring."
 
